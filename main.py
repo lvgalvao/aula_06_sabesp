@@ -1,2 +1,3 @@
-booleano = False and False
-print(booleano)
+nome = 5
+
+print(len(nome))
